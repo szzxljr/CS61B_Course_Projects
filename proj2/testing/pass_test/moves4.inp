@@ -1,0 +1,22 @@
+# Test long jump sequence.
+java -ea qirkat.Main
+set white wb--- -b-b- -b--- -bb-- -b---
+dump
+@<===
+@< - b - - -
+@< - b b - -
+@< - b - - -
+@< - b - b -
+@< w b - - -
+@<===
+a1-c1-a3-c3-a5-c5-c3-e1
+dump
+@<===
+@< - - - - -
+@< - - - - -
+@< - - - - -
+@< - - - - -
+@< - - - - w
+@<===
+
+set white ----- ---b- ----- --b-- wb---

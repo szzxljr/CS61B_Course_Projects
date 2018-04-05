@@ -1,0 +1,43 @@
+auto White
+seed 1273659
+set white wwww- wbww- b---- b-b-- b-bbb
+dump
+
+a1-c3
+dump
+a3-a1
+dump
+c3-b3
+dump
+e5-d4
+#5
+dump
+
+#set white bwww- --ww- -w--- b-bb- b-bb-
+d2-e2
+dump
+c5-b5
+dump
+c2-d2
+dump
+d4-e4
+dump
+b3-a3
+dump
+a4-a2
+dump
+d1-e1
+dump
+c4-c3
+dump
+d2-b4
+dump
+b5-b3
+dump
+e2-e3
+dump
+e4-e2
+dump
+e1-e3
+dump
+start

@@ -1,0 +1,12 @@
+# Play against the staff version, with staff playing White.
+java -ea qirkat.Main
+seed 393821
+start
+@recv white...
+------------------------------------
+staff-qirkat
+auto White
+manual Black
+seed 128374
+start
+@send white...
